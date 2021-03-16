@@ -1,6 +1,6 @@
 # IBM-Recommendation-System
 ## Description
-This project was about analyzing users who viewed with articles on the IBM Watson Studio platform, and make recommendations to them on new articles that fit their interests.
+This project was about analyzing users who viewed articles on the IBM Watson Studio platform, and make recommendations to them on new articles that fit their interests.
 It is divided into 4 sections:
 1) Exploratory Data Analysis: Perform data visualisation, cleaning and features engineering
 2) Rank Based Recommendations: Return the n top articles ordered with most interactions with users as the top
